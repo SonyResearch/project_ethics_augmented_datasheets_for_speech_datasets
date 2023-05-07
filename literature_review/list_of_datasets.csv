@@ -1,0 +1,214 @@
+Dataset,URL
+ami,https://groups.inf.ed.ac.uk/ami/corpus/overview.shtml
+common_voice,https://commonvoice.mozilla.org/
+lj_speech,https://keithito.com/LJ-Speech-Dataset/
+multilingual_librispeech,https://arxiv.org/abs/2012.03411v2
+vctk,https://datashare.ed.ac.uk/handle/10283/3443
+vivos,https://zenodo.org/record/7068130#.Y-FndHDMIuU
+Lacito/pangloss,https://pangloss.cnrs.fr/?lang=en
+Harveenchadha/indic-voice,https://github.com/harveenchadha/indic-voice
+anton-l/common_language,https://huggingface.co/datasets/common_language
+bhigy/buckeye_asr,https://buckeyecorpus.osu.edu/
+collectivat/tv3_parla,https://collectivat.cat/rap
+gigant/african_accented_french,https://huggingface.co/datasets/gigant/african_accented_french
+M-AILABS Speech Dataset,https://www.caito.de/2019/01/03/the-m-ailabs-speech-dataset/
+gigant/romanian_speech_synthesis_0_8_1,https://huggingface.co/datasets/gigant/romanian_speech_synthesis_0_8_1
+pariajm/sharif_emotional_speech_dataset,https://github.com/pariajm/sharif-emotional-speech-dataset
+MLCommons/ml_spoken_words,https://mlcommons.org/en/multilingual-spoken-words/
+projecte-aina/parlament_parla,https://mlcommons.org/en/multilingual-spoken-words/
+A Collection of Single Speaker Speech Datasets for 10 Languages,https://arxiv.org/abs/1903.11269
+Bingsu/KSS_Dataset,https://www.kaggle.com/datasets/bryanpark/korean-single-speaker-speech-dataset/versions/2
+The North-Eastern Neo-Aramaic Database Project (cam.ac.uk),https://nena.ames.cam.ac.uk/dialects/
+patrickvonplaten/librispeech_asr_self_contained,http://www.openslr.org/12
+LIUM/tedlium,https://huggingface.co/datasets/LIUM/tedlium
+TITML,https://research.nii.ac.jp/src/en/TITML-IDN.html
+Bingsu/zeroth-korean,http://www.openslr.org/40
+sil-ai/audio-keyword-spotting,https://huggingface.co/datasets/sil-ai/audio-keyword-spotting
+indonesian-nlp/librivox-indonesia,https://huggingface.co/datasets/indonesian-nlp/librivox-indonesia
+TIMIT,https://catalog.ldc.upenn.edu/LDC93S1
+WSJ0,CSR-I (WSJ0) Complete - Linguistic Data Consortium (upenn.edu)
+VoxForge,http://www.voxforge.org/home
+WSJCAM0 ,WSJCAM0 Cambridge Read News - Linguistic Data Consortium (upenn.edu)
+LibriSpeech,http://www.openslr.org/12
+Speech Commands,https://arxiv.org/abs/1804.03209
+NISP,https://github.com/iiscleap/NISP-Dataset
+AISHELL-1,http://www.openslr.org/33/
+AISHELL-2,https://github.com/kaldi-asr/kaldi/tree/master/egs/aishell2
+BD-4SK-ASR,https://github.com/KurdishBLARK/BD-4SK-ASR
+CHiME-5,https://github.com/kaldi-asr/kaldi/tree/master/egs/chime5/s5
+ClovaCall,https://github.com/ClovaAI/ClovaCall
+FT Speech,https://ftspeech.github.io/
+LibriCSS,https://github.com/chenzhuo1011/libri_css
+LibriMix,https://github.com/JorisCos/LibriMix
+LibriVoxDeEn,https://www.cl.uni-heidelberg.de/statnlpgroup/librivoxdeen/
+MASRI-HEADSET,https://www.um.edu.mt/projects/masri/index.html
+MaSS,https://github.com/getalp/mass-dataset
+THCHS-30,http://data.cslt.org/thchs30/README.html
+VoxPopuli,https://github.com/facebookresearch/voxpopuli
+Kite,http://kite.speed.pub.ro/
+JSS Dataset,https://github.com/kakaobrain/jejueo
+2000 HUB5 English,https://catalog.ldc.upenn.edu/LDC2002T43
+Parkinson Speech Dataset,https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings
+Arabic Speech Corpus,http://en.arabicspeechcorpus.com/
+CMU Wilderness Multilingual Speech Dataset,http://festvox.org/cmu_wilderness/
+NISP- A Multi-lingual Multi-accent Dataset for Speaker Profiling,https://github.com/iiscleap/NISP-Dataset
+Deeply Korean read speech,https://github.com/deeplyinc/Korean-Read-Speech-Corpus/blob/main/README.md
+Switchboard-1 Corpus,https://catalog.ldc.upenn.edu/LDC97S62
+MRDA,http://www1.icsi.berkeley.edu/Speech/mr//
+BABEL Project,http://www1.icsi.berkeley.edu/Speech/mr/
+SwissDial,http://www.reading.ac.uk/AcaDepts/ll/speechlab/babel/
+LaboroTVSpeech,https://github.com/laboroai/LaboroTVSpeech
+Auto-KWS,https://www.4paradigm.com/competition/autospeech2021
+speechocean762,https://www.openslr.org/101
+SPGISpeech,https://datasets.kensho.com/datasets/scribe
+EasyCall,https://arxiv.org/pdf/2104.02542v1.pdf
+BSTC,https://ai.baidu.com/broad/introduction?dataset=bstc
+MediaSpeech,https://github.com/NTRLab/MediaSpeech
+NISQA Speech Quality Corpus,https://github.com/gabrielmittag/NISQA/
+KazakhTTS,https://github.com/IS2AI/Kazakh_TTS
+AISHELL-3,http://www.aishelltech.com/aishell_3
+Earnings-21,https://github.com/revdotcom/speech-datasets/tree/main/earnings21
+MUSAN,http://www.openslr.org/17/
+VOICES,https://registry.opendata.aws/lab41-sri-voices/
+CSRC,https://www.data-baker.com/csrc_challenge.html
+GigaSpeech,https://github.com/SpeechColab/GigaSpeech
+GOLOS,https://github.com/sberdevices/golos
+Vāksañcayaḥ,https://www.cse.iitb.ac.in/~asr/
+CrowdSpeech,https://github.com/pilot7747/VoxDIY
+VESUS,https://engineering.jhu.edu/nsa/vesus/
+OLR 2020dialect,http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/OLR_Challenge_2021
+WenetSpeech,https://wenet-e2e.github.io/WenetSpeech/
+TUDA,https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/acoustic-models.html
+RTASC,https://doi.org/10.5281/zenodo.4626539
+CI-AVSR,https://github.com/HLTCHKUST/CI-AVSR
+EmoSpeech,https://github.com/RakshakTeam/emospeech-dataset-v1
+American English Speech Data,https://bit.ly/3LkA3pB
+MagicData-RAMC,MagicHub-io/MagicData-RAMC: MagicData-RAMC Dataset and Baseline (github.com)
+Vystadial,http://www.openslr.org/6/
+THUYG-20        ,http://www.openslr.org/22/
+Iban,https://magichub.com/datasets/iban-speech-corpora-for-asr/
+ALFFA,http://www.openslr.org/25/
+Surfingtech  Chinese Mandarin Corpus co switch,http://www.surfing.ai/Datasets/155.html
+Heroico,http://openslr.org/39/
+Surfingtech   American English Corpus,https://openslr.magicdatatech.com/45/
+Tunisian_MSA,https://openslr.magicdatatech.com/46/
+Primewords Chinese,http://www.openslr.org/47/
+Pansori-TEDxKR,yc9701/pansori-tedxkr-corpus: Korean ASR Corpus generated from TEDx talks (github.com)
+aidatatang_200zh        ,http://openslr.org/62/
+CN-Celeb        ,http://cnceleb.org/
+Google_datasets,google/language-resources: Datasets and tools for basic natural language processing. (github.com)
+Att-HACK,L-theorist/Att-HACK: Att-hack: an expressive speech database with social attitudes (dagshub.com)
+Yoloxóchitl-Mixtec        ,https://openslr.org/89/
+Puebla-Nahuatl        ,https://www.openslr.org/92
+Deeply parent-child vocal interaction dataset,https://github.com/deeplyinc/Parent-Child-Vocal-Interaction-Dataset
+Multilingual TEDx        ,http://www.openslr.org/100/
+        nicolingua-0003-west-african-radio-corpus,https://www.openslr.org/105/
+nicolingua-0004-west-african-va-asr-corpus,https://www.openslr.org/106/
+Totonac Resources        ,https://www.openslr.org/107/
+Samromur ,http://www.openslr.org/112/
+SEOUL CORPUS,https://www.openslr.org/113/
+AliMeeting,https://www.openslr.org/119/
+Kashmiri Data Corpus        ,https://www.openslr.org/122/
+TIBMD@MUC speech data set        ,https://www.openslr.org/124/
+        Basic LAnguage Resource Kit 1.0 for Faroese,https://www.openslr.org/125/
+IISc-MILE,https://openslr.elda.org/resources/127/about.html
+Casual Conversations,Casual Conversations Dataset (facebook.com)
+LAION AI Audio Dataset,LAION-AI/audio-dataset: Audio Dataset for training CLAP and other models (github.com)
+ OGI Kids’ Speech Corpus,http://shachi.org/resources/3111
+"Lahjoita puhetta – a large-scale corpus of spoken
+Finnish with some benchmarks",Lahjoita puhetta: a large-scale corpus of spoken Finnish with some benchmarks (aalto.fi)
+EmoV_DB,openslr.org
+COMMON PHONE,https://arxiv.org/pdf/2201.05912v1.pdf
+CROWDSPEECH,https://github.com/pilot7747/VoxDIY
+DR-VCTK,https://datashare.ed.ac.uk/handle/10283/3038
+DETOXY,https://github.com/sreyan88/toxicity-detection-in-spoken-utterances
+ESB,https://huggingface.co/esb
+EVI,https://github.com/PolyAI-LDN/evi-paper
+Greek Parliament Proceedings,https://github.com/Dritsa-Konstantina/greparl
+ICASSP 2021 ACOUSTIC ECHO CANCELLATION CHALLENGEICASSP 2021 Acoustic Echo Cancellation Challenge,https://github.com/microsoft/AEC-Challenge
+INTERSPEECH 2021 ACOUSTIC ECHO CANCELLATION CHALLENGE,https://github.com/microsoft/AEC-Challenge
+JVS-MUSIC,https://sites.google.com/site/shinnosuketakamichi/research-topics/jvs_music
+Kinect-WSJ,https://github.com/sunits/Reverberated_WSJ_2MIX
+MAVS,https://docs.google.com/forms/d/e/1FAIpQLSfTMqnQj8KNoUi1Ms1tx8Ewgil2l4wAAJVaKUJs6VkWfjAo4w/viewform
+MC_GRID,https://academictorrents.com/details/3cd18ff2d3eec881207dcc5ca5a2c3a2a3afe462
+MULTISV,https://github.com/BUTSpeechFIT/MultiSV
+NISQA SPEECH QUALITY CORPUS,https://github.com/gabrielmittag/NISQA/
+NusaCrowd,https://github.com/IndoNLP/nusa-crowd/
+Persian Preschool Cognition Speech,https://arxiv.org/pdf/2203.12886v9.pdf
+PODCASTFILLERS,https://podcastfillers.github.io/
+PROMPTSPEECH,https://speechresearch.github.io/prompttts/
+RUSLAN,https://ruslan-corpus.github.io/
+SDN,https://github.com/sled-group/DOROTHIE
+Silent Speech EMG,https://github.com/dgaddy/silent_speech
+SpeechMatrix,https://github.com/facebookresearch/fairseq/tree/ust/examples/speech_matrix
+SPOT THE DIFFERENCE CORPUS,https://github.com/zedavid/SpotTheDifferenceData
+TAT,https://sites.google.com/nycu.edu.tw/speechlabx/tat_s2st_benchmark?authuser=0
+TR_AR_S2S,https://arxiv.org/pdf/2203.03601v1.pdf
+The Spoken Wikipedia Corpora,https://nats.gitlab.io/swc/
+UGIF,https://github.com/google-research/google-research/tree/master/ugif
+VocBench,https://github.com/facebookresearch/vocoder-benchmark
+Voice Navigation,https://onedrive.live.com/?cid=bf23c8ed32152866&id=BF23C8ED32152866%21313298&authkey=%21ABSwiTp3mQWAlgg
+WHAMR_EXT,https://github.com/jwr1995/WHAMR_ext
+WELL-BEING DATASET,https://arxiv.org/abs/2007.15815v1
+MODIFIED_SHEMO,https://github.com/aliyzd95/ShEMO-Modification
+500 Hours - Italian Conversational Speech Data by Mobile Phone,https://www.datatang.ai/datasets/1178
+Deeply vocal characterizer,https://github.com/deeplyinc/Nonverbal-Vocalization-Dataset
+FluencyBank,https://fluency.talkbank.org/
+PCVC,https://github.com/smalekz/PCVC
+VOICEPRIVACY,https://github.com/Voice-Privacy-Challenge/Voice-Privacy-Challenge-2020
+DISRPT2019,https://github.com/disrpt/sharedtask2019
+EXVO2022,https://github.com/HumeAI/competitions/tree/main/ExVo2022
+OLR 2021,http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/OLR_Challenge_2021
+PartialSpoof,https://nii-yamagishilab.github.io/zlin-demo/IS2021/index.html
+ReMASC,https://github.com/YuanGongND/ReMASC
+Timers and Such,https://zenodo.org/record/4623772#.Y-FrP3DMIuU
+VOXCLAMANTIS,https://voxclamantisproject.github.io/
+ASR-GLUE,https://drive.google.com/drive/folders/1slqI6pUiab470vCxQBZemQZN-a_ssv1Q
+DISRPT2021,https://github.com/disrpt/sharedtask2021
+INTERVIEW,https://www.kaggle.com/datasets/shuyangli94/interview-npr-media-dialog-transcripts
+TaL Corpus,https://ultrasuite.github.io/data/tal_corpus/
+THE PEOPLE’S SPEECH,https://github.com/mlcommons/peoples-speech
+ADIMA,https://github.com/ShareChatAI/Adima
+ASCEND,https://huggingface.co/datasets/CAiRE/ASCEND
+EMOVIE,https://viem-ccy.github.io/EMOVIE/
+EUROPARL-ASR,https://www.mllp.upv.es/git-pub/ggarces/Europarl-ASR/
+FMFCC,https://github.com/Amforever/FMFCC-A
+FINGERPRINT DATASET,https://ieee-dataport.org/open-access/neural-audio-fingerprint-dataset
+FLICKR AUDIO CAPTION CORPUS,https://groups.csail.mit.edu/sls/downloads/flickraudio/
+KOSP2E,https://github.com/warnikchow/kosp2e
+LIBRI-ADAPT,https://github.com/akhilmathurs/libriadapt
+REAL-M,https://sourceseparationresearch.com/static/REAL-M-v0.1.0.tar.gz
+RyanSpeech,http://mohammadmahoor.com/ryanspeech/
+SOMOS,https://innoetics.github.io/publications/somos-dataset/index.html
+SPOKENST,https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:237533
+TALKING WITH HANDS 16.2M,https://github.com/facebookresearch/TalkingWithHands32M
+AV Digits Database,https://ibug-avs.eu/
+AVASPEECH-SMAD,https://github.com/biboamy/AVASpeech_labels
+CLIPS,http://www.clips.unina.it/it/
+WSJ0-2mix,https://www.merl.com/demos/deep-clustering
+LIBRITTS,http://www.openslr.org/60
+WHAM!,http://wham.whisper.ai/
+REVERB CHALLENGE,https://reverb2014.dereverberation.com/index.html
+Multimodal Opinionlevel Sentiment Intensity,https://arxiv.org/pdf/1606.06259.pdf
+WHAMR!,https://wham.whisper.ai/
+DIHARD II,https://dihardchallenge.github.io/dihard2/
+COVOST,https://github.com/facebookresearch/covost
+AVSpeech,https://looking-to-listen.github.io/avspeech/
+ESD,https://hltsingapore.github.io/ESD/
+RAVDESS,https://zenodo.org/record/1188976#.YFZuJ0j7SL8
+Spoken-SQuAD,https://github.com/chiahsuan156/Spoken-SQuAD
+SEP-28k,https://arxiv.org/pdf/2102.12394.pdf
+VOCASET,https://voca.is.tue.mpg.de/
+SLUE,https://github.com/asappresearch/slue-toolkit
+CVSS,https://github.com/google-research-datasets/cvss
+SPEECH-COCO,https://zenodo.org/record/4282267
+EasyCom,https://github.com/facebookresearch/EasyComDataset
+BEAT,https://pantomatrix.github.io/BEAT/
+LIBRI-ADHOC40,https://github.com/ISmallFish/Libri-adhoc40
+PedroDKE/LibriS2S,https://github.com/PedroDKE/LibriS2S
+google/MusicCaps,https://huggingface.co/datasets/google/MusicCaps
+novelai-dev/voice-v33-mandarin,https://github.com/w4123/GenshinVoice
+sil-ai/bloom-speech,https://huggingface.co/datasets/sil-ai/bloom-speech
+thennal/IMaSC,https://arxiv.org/abs/2211.12796
+thennal/indic_tts_ml,https://www.kaggle.com/datasets/kavyamanohar/indic-tts-malayalam-speech-corpus
+vpetukhov/bible_tts_hausa,https://huggingface.co/datasets/vpetukhov/bible_tts_hausa

@@ -1,0 +1,234 @@
+,title,URL
+0,"Corpus Development of Kiswahili Speech Recognition Test and Evaluation sets, Preemptively Mitigating Demographic Bias Through Collaboration with Linguists",http://dx.doi.org/10.18653/v1/2022.computel-1.3
+1,Cree Corpus: A Collection of nehiyawewin Resources,http://dx.doi.org/10.18653/v1/2022.acl-long.440
+2,"One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia",http://dx.doi.org/10.18653/v1/2022.acl-long.500
+3,Context-sensitive evaluation of automatic speech recognition: considering user experience language variation,http://dx.doi.org/10.1109/icassp40776.2020.9053589
+4,SD-QA: Spoken Dialectal Question Answering for the Real World,http://dx.doi.org/10.18653/v1/2021.findings-emnlp.281
+5,Jejueo Datasets for Machine Translation and Speech Synthesis,http://dx.doi.org/10.1016/j.specom.2012.02.004
+6,Crowdsourcing Speech Data for Low-Resource Languages from Low-Income Workers,http://dx.doi.org/10.1109/icassp.2012.6288798
+7,SpiCE: A New Open-Access Corpus of Conversational Bilingual Speech in Cantonese and English,http://dx.doi.org/10.31219/osf.io/9c3w6
+8,Using Automatic Speech Recognition in Spoken Corpus Curation,http://dx.doi.org/10.21437/sltu.2018-51
+9,Evaluation of Off-the-shelf Speech Recognizers Across Diverse Dialogue Domains,http://dx.doi.org/10.1109/icassp.2019.8682319
+10,The Indigenous Languages Technology project at NRC Canada: An empowerment-oriented approach to developing language software,http://dx.doi.org/10.18653/v1/2020.coling-main.516
+11,Spatio-Temporal Prediction of Dialectal Variant Usage,http://dx.doi.org/10.18653/v1/w19-4723
+12,Dialect-Specific Models for Automatic Speech Recognition of African American Vernacular English,http://dx.doi.org/10.26615/issn.2603-2821.2019_003
+13,VOCE Corpus: Ecologically Collected Speech Annotated with Physiological and Psychological Stress Assessments,http://dx.doi.org/10.21437/speechprosody.2016-115
+14,NKI-CCRT Corpus - Speech Intelligibility Before and After Advanced Head and Neck Cancer Treated with Concomitant Chemoradiotherapy,http://dx.doi.org/10.1016/j.oraloncology.2011.06.434
+15,Development of Linguistic Resources and Tools for Providing Multilingual Solutions in Indian Languages A Report on National Initiative,http://dx.doi.org/10.1093/llc/12.4.219
+16,A Very Large Scale Mandarin Chinese Broadcast Corpus for GALE Project,http://dx.doi.org/10.1007/11939993_73
+17,STC-TIMIT: Generation of a Single-channel Telephone Corpus,http://dx.doi.org/10.21437/interspeech.2009-501
+18,Regional Bias in the Broad Phonetic Transcriptions of the Spoken Dutch Corpus,http://dx.doi.org/10.21437/eurospeech.2001-393
+19,Context Adaptive Neural Network Based Acoustic Models for Rapid Adaptation,http://dx.doi.org/10.21437/interspeech.2016-203
+20,Counterfactually Fair Automatic Speech Recognition,http://dx.doi.org/10.1109/taslp.2021.3126949
+21,I-Vectors and Structured Neural Networks for Rapid Adaptation of Acoustic Models,http://dx.doi.org/10.21437/interspeech.2014-488
+22,i-Vector modeling of speech attributes for automatic foreign accent recognition,http://dx.doi.org/10.1109/taslp.2015.2489558
+23,German Speech Recognition System using DeepSpeech,http://dx.doi.org/10.1145/3443279.3443313
+24,BYBLOS speech recognition benchmark results,http://dx.doi.org/10.21236/ada459943
+25,Morph-based speech recognition and modeling of out-of-vocabulary words across languages,http://dx.doi.org/10.1145/1322391.1322394
+26,Eliciting natural speech from non-native users: collecting speech data for LVCSR,http://dx.doi.org/10.3115/1598834.1598836
+27,"Social (distributed) language modeling, clustering and dialectometry",http://dx.doi.org/10.3115/1708124.1708126
+28,Automatic Speech-to-Text Transcription in Arabic,http://dx.doi.org/10.1007/978-1-4020-6046-5_9
+29,Model Generation of Accented Speech using Model Transformation and Verification for Bilingual Speech Recognition,http://dx.doi.org/10.1145/2661637
+30,Using tone information in Cantonese continuous speech recognition,http://dx.doi.org/10.21437/eurospeech.2003-557
+31,Automatically assessing the ABCs: Verification of children's spoken letter-names and letter-sounds,http://dx.doi.org/10.1145/1998384.1998389
+32,Improved BLSTM RNN Based Accent Speech Recognition Using Multi-task Learning and Accent Embeddings,http://dx.doi.org/10.1145/3388818.3389159
+33,Challenges of a Real-World HRI Study with Non-Native English Speakers: Can Personalisation Save the Day?,http://dx.doi.org/10.1145/3371382.3378278
+34,Natural language misunderstanding,http://dx.doi.org/10.1145/3422600
+35,Automatically Building VoIP Speech Parallel Corpora for Arabic Dialects,http://dx.doi.org/10.1145/3132708
+36,Promoting intercultural awareness through native-to-foreign speech accent conversion,http://dx.doi.org/10.1145/2631488.2634058
+37,Alzheimer's Dementia Detection through Spontaneous Dialogue with Proactive Robotic Listeners,http://dx.doi.org/10.1109/hri53351.2022.9889375
+38,Comparing speech recognition services for HCI applications in behavioral health,http://dx.doi.org/10.1145/3410530.3414372
+39,Language variation and algorithmic bias: understanding algorithmic bias in British English automatic speech recognition,http://dx.doi.org/10.1145/3531146.3533117
+40,Would Technology Obliterate Medical Transcription?: The Antecedents and Consequences of Technology-driven Obsolescence Perceptions on Turnover Intentions of Medical Transcriptionists,http://dx.doi.org/10.1145/3084381.3084414
+41,Accent classification in human speech biometrics for native and non-native english speakers,http://dx.doi.org/10.1145/3316782.3322780
+42,"ISIS: an adaptive, trilingual conversational system with interleaving interaction and delegation dialogs",http://dx.doi.org/10.1145/1017494.1017497
+43,Hierarchical Summarization for Longform Spoken Dialog,http://dx.doi.org/10.1145/3472749.3474771
+44,A readability evaluation of real-time crowd captions in the classroom,http://dx.doi.org/10.1145/2384916.2384930
+45,ASRTest: automated testing for deep-neural-network-driven speech recognition systems,http://dx.doi.org/10.1145/3533767.3534391
+46,Toward fairness in AI for people with disabilities SBG@a research roadmap,http://dx.doi.org/10.1145/3386296.3386298
+47,Bringing data science to the speakers of every language,http://dx.doi.org/10.1145/2623330.2630825
+48,"Spoken Corpora Data, Automatic Speech Recognition, and Bias Against African American Language: The case of Habitual 'Be'",http://dx.doi.org/10.1145/3442188.3445893
+49,Experiences of a Speech-enabled Conversational Agent for the Self-report of Well-being among People Living with Affective Disorders: An In-the-Wild Study,http://dx.doi.org/10.1145/3484508
+50,"My Algorithms Have Determined You're Not Human: AI-ML, Reverse Turing-Tests, and the Disability Experience",http://dx.doi.org/10.1145/3308561.3353812
+51,BiasHacker: Voice Command Disruption by Exploiting Speaker Biases in Automatic Speech Recognition,http://dx.doi.org/10.1145/3507657.3528558
+52,Unsupervised speech recognition,http://dx.doi.org/10.21437/interspeech.2022-10565
+53,Group retention when using machine learning in sequential decision making: the interplay between user dynamics and fairness,http://dx.doi.org/10.1109/icm56065.2022.10005468
+54,A media monitoring solution,http://dx.doi.org/10.1109/icassp.2011.5946856
+55,"Phonetic Transcription Using the Arabic Chat Alphabet
+",http://dx.doi.org/10.1007/978-1-4614-1906-8_6
+56,"Google's cross-dialect Arabic voice search
+",http://dx.doi.org/10.1109/icassp.2012.6288905
+57,Automatic speech recognition for acoustical analysis and assessment of cantonese pathological voice and speech,http://dx.doi.org/10.1109/icassp.2016.7472924
+58,RADMM: Recurrent adaptive mixture model with applications to domain robust language modeling,http://dx.doi.org/10.1109/icassp.2018.8461628
+59,Learning to detect dysarthria from raw speech,http://dx.doi.org/10.1109/icassp.2019.8682324
+60,Sell-corpus: an open source multiple accented Chinese-English speech corpus for L2 English learning assessment,http://dx.doi.org/10.1109/icassp.2019.8682612
+61,Libri-adapt: a new speech dataset for unsupervised domain adaptation,http://dx.doi.org/10.1109/icassp40776.2020.9053074
+62,"Hierarchical attention transfer networks for depression assessment from speech
+",http://dx.doi.org/10.1109/icassp40776.2020.9053207
+63,Evaluating voice conversion-based privacy protection against informed attackers,http://dx.doi.org/10.1109/icassp40776.2020.9053868
+64,"The accented english speech recognition challenge 2020: open datasets, tracks, baselines, results and methods",http://dx.doi.org/10.1109/icassp39728.2021.9413386
+65,Aispeech-sjtu accent identification system for the accented english speech recognition challenge,http://dx.doi.org/10.1109/icassp39728.2021.9414292
+66,"Adima: Abuse detection in multilingual audio
+",http://dx.doi.org/10.1109/icassp43922.2022.9746718
+67,"TOWARDS MEASURING FAIRNESS IN SPEECH RECOGNITION: CASUAL
+CONVERSATIONS DATASET TRANSCRIPTION",http://dx.doi.org/10.1109/icassp43922.2022.9747501
+68,"MODEL-BASED APPROACH FOR MEASURING THE FAIRNESS IN ASR
+",http://dx.doi.org/10.1109/icassp43922.2022.9747654
+69,Improving generalisation to new speakers in spoken dialogue state tracking,http://dx.doi.org/10.21437/interspeech.2016-404
+70,Comparing Articulatory and Acoustic Strategies for Reducing Non-Native Accents.,http://dx.doi.org/10.21437/interspeech.2016-1131
+71,"ASR, dialects, and acoustic/phonological distances.",http://dx.doi.org/10.21437/icslp.2000-705
+72,Foreign accent conversion through voice morphing.,http://dx.doi.org/10.21437/interspeech.2013-671
+73,Improved acoustic modelling for automatic literacy assessment of children,http://dx.doi.org/10.21437/interspeech.2018-2118
+74,Analyzing training dependencies and posterior fusion in discriminant classification of apnea patients based on sustained and connected speech,http://dx.doi.org/10.21437/interspeech.2011-759
+75,ASR-based subtitling of live TV-programs for the hearing impaired.,http://dx.doi.org/10.21437/icslp.2000-599
+76,An Investigation of Cross-Cultural Semi-Supervised Learning for Continuous Affect Recognition.,http://dx.doi.org/10.21437/interspeech.2020-2641
+77,Foreign Accent Conversion by Synthesizing Speech from Phonetic Posteriorgrams.,http://dx.doi.org/10.21437/interspeech.2019-1778
+78,The sheffield wargame corpus-day two and day three,http://dx.doi.org/10.21437/interspeech.2016-98
+79,ASR for South Slavic Languages Developed in Almost Automated Way.,http://dx.doi.org/10.21437/interspeech.2016-747
+80,On Training and Evaluation of Grapheme-to-Phoneme Mappings with Limited Data.,http://dx.doi.org/10.21437/interspeech.2018-1920
+81,Development of Robust Automated Scoring Models Using Adversarial Input for Oral Proficiency Assessment.,http://dx.doi.org/10.21437/interspeech.2019-1711
+82,Depression Detection Using Automatic Transcriptions of De-Identified Speech.,http://dx.doi.org/10.21437/interspeech.2017-1201
+83,Leveraging Non-Target Language Resources to Improve ASR Performance in a Target Language.,http://dx.doi.org/10.21437/interspeech.2021-1657
+84,Exploring How Phone Classification Neural Networks Learn Phonetic Information by Visualising and Interpreting Bottleneck Features.,http://dx.doi.org/10.21437/interspeech.2018-2462
+85,Arabic Dialect Identification-'Is the Secret in the Silence?'and Other Observations.,http://dx.doi.org/10.21437/interspeech.2012-18
+86,Enhancing Intelligibility of Dysarthric Speech Using Gated Convolutional-Based Voice Conversion System.,http://dx.doi.org/10.21437/interspeech.2020-1367
+87,LAIX Corpus of Chinese Learner English: Towards a Benchmark for L2 English ASR.,http://dx.doi.org/10.21437/interspeech.2020-1677
+88,Colloquialising modern standard Arabic text for improved speech recognition,http://dx.doi.org/10.21437/interspeech.2016-788
+89,Improving Large Vocabulary Accented Mandarin Speech Recognition with Attribute-Based I-Vectors.,http://dx.doi.org/10.21437/interspeech.2016-378
+90,A Frequency Normalization Technique for Kindergarten Speech Recognition Inspired by the Role of f0 in Vowel Perception,http://dx.doi.org/10.21437/interspeech.2019-1847
+91,"Automatic Speech Recognition Using Probabilistic Transcriptions in Swahili, Amharic, and Dinka.",http://dx.doi.org/10.21437/interspeech.2016-657
+92,"Understanding Racial Disparities in Automatic Speech Recognition: the case
+of habitual “be”",http://dx.doi.org/10.21437/interspeech.2020-2893
+93,On the difficulties of automatic speech recognition for kindergarten-aged children,http://dx.doi.org/10.21437/interspeech.2018-2297
+94,Training Hybrid Models on Noisy Transliterated Transcripts for Code-Switched Speech Recognition.,http://dx.doi.org/10.21437/interspeech.2021-2127
+95,PannoMulloKathan: Voice Enabled Mobile App for Agricultural Commodity Price Dissemination in Bengali Language.,http://dx.doi.org/10.1007/978-1-4419-7634-5_2
+96,"Deep Speech Based End-to-End Automated Speech Recognition (ASR) for
+  Indian-English Accents",http://dx.doi.org/10.1109/icassp.1988.196553
+97,Accented Speech Recognition: A Survey,http://dx.doi.org/10.21437/interspeech.2004-558
+98,"Toward Fairness in Speech Recognition: Discovery and mitigation of
+  performance disparities",http://dx.doi.org/10.21437/interspeech.2022-10816
+99,"Dyn-ASR: Compact, Multilingual Speech Recognition via Spoken Language
+  and Accent Identification",http://dx.doi.org/10.1109/wf-iot51360.2021.9594961
+100,Performance Disparities Between Accents in Automatic Speech Recognition,http://dx.doi.org/10.1109/asru.2003.1318415
+101,Quantifying Bias in Automatic Speech Recognition,http://dx.doi.org/10.1109/asru.2011.6163908
+102,"KT-Speech-Crawler: Automatic Dataset Construction for Speech Recognition
+  from YouTube Videos",http://dx.doi.org/10.18653/v1/d18-2016
+103,"Lahjoita puhetta -- a large-scale corpus of spoken Finnish with some
+  benchmarks",http://dx.doi.org/10.1007/s10579-022-09606-3
+104,Challenging the Boundaries of Speech Recognition: The MALACH Corpus,http://dx.doi.org/10.21437/interspeech.2019-1907
+105,Domain Adversarial Neural Networks for Dysarthric Speech Recognition,http://dx.doi.org/10.21437/interspeech.2020-2845
+106,"Arabic Speech Recognition by End-to-End, Modular Systems and Human",http://dx.doi.org/10.1016/j.csl.2021.101272
+107,Bengali Common Voice Speech Dataset for Automatic Speech Recognition,http://dx.doi.org/10.1049/ic:19980961
+108,"Training Neural Speech Recognition Systems with Synthetic Speech
+  Augmentation",http://dx.doi.org/10.21437/s4sg.2022-4
+109,"Differentiable Allophone Graphs for Language-Universal Speech
+  Recognition",http://dx.doi.org/10.21437/interspeech.2021-1944
+110,"AccentDB: A Database of Non-Native English Accents to Assist Neural
+  Speech Recognition",http://dx.doi.org/10.5353/th_b3194474
+111,Accented Speech Recognition Inspired by Human Perception,http://dx.doi.org/10.1121/1.4800438
+112,"Speech Technology for Everyone: Automatic Speech Recognition for
+  Non-Native English with Transfer Learning",http://dx.doi.org/10.1109/asru.2017.8268996
+113,"A Multi Purpose and Large Scale Speech Corpus in Persian and English for
+  Speaker and Speech Recognition: the DeepMine Database",http://dx.doi.org/10.1109/asru46091.2019.9003882
+114,Learning Robust and Multilingual Speech Representations,http://dx.doi.org/10.18653/v1/2020.findings-emnlp.106
+115,"On-Device Personalization of Automatic Speech Recognition Models for
+  Disordered Speech",http://dx.doi.org/10.21437/interspeech.2019-1752
+116,A Survey of Multilingual Models for Automatic Speech Recognition,http://dx.doi.org/10.1109/asru.2001.1034654
+117,"Low-resource Accent Classification in Geographically-proximate Settings:
+  A Forensic and Sociophonetics Perspective",http://dx.doi.org/10.21437/interspeech.2022-11372
+118,"QASR: QCRI Aljazeera Speech Resource -- A Large Scale Annotated Arabic
+  Speech Corpus",http://dx.doi.org/10.18653/v1/2021.acl-long.177
+119,"CorrectSpeech: A Fully Automated System for Speech Correction and Accent
+  Reduction",http://dx.doi.org/10.22215/etd/2005-07797
+120,The Norwegian Parliamentary Speech Corpus,http://dx.doi.org/10.21437/interspeech.2006-50
+121,Neural Language Codes for Multilingual Acoustic Models,http://dx.doi.org/10.21437/interspeech.2018-1241
+122,"A Study of Gender Impact in Self-supervised Models for Speech-to-Text
+  Systems",http://dx.doi.org/10.21437/interspeech.2022-353
+123,"Discovering Phonetic Inventories with Crosslingual Automatic Speech
+  Recognition",http://dx.doi.org/10.1016/j.csl.2022.101358
+124,"ON-TRAC Consortium Systems for the IWSLT 2022 Dialect and Low-resource
+  Speech Translation Tasks",http://dx.doi.org/10.18653/v1/2022.iwslt-1.28
+125,Personalizing ASR for Dysarthric and Accented Speech with Limited Data,http://dx.doi.org/10.21437/interspeech.2019-1427
+126,"Gender Representation in French Broadcast Corpora and Its Impact on ASR
+  Performance",http://dx.doi.org/10.1145/3347449.3357480
+127,Voice Privacy with Smart Digital Assistants in Educational Settings,http://dx.doi.org/10.1007/978-3-030-80421-3_31
+128,ADIMA: Abuse Detection In Multilingual Audio,http://dx.doi.org/10.1109/icassp43922.2022.9746718
+129,"Building an ASR Error Robust Spoken Virtual Patient System in a Highly
+  Class-Imbalanced Scenario Without Speech Data",http://dx.doi.org/10.21437/interspeech.2020-2844
+130,"Evaluating Voice Conversion-based Privacy Protection against Informed
+  Attackers",http://dx.doi.org/10.1109/icassp40776.2020.9053868
+131,"ATCSpeech: a multilingual pilot-controller speech corpus from real Air
+  Traffic Control environment",http://dx.doi.org/10.21437/interspeech.2020-1020
+132,Interpretable Convolutional Filters with SincNet,http://dx.doi.org/10.2139/ssrn.4043940
+133,"That Sounds Familiar: an Analysis of Phonetic Representations Transfer
+  Across Languages",http://dx.doi.org/10.21437/interspeech.2020-2513
+134,"Effectiveness of Mining Audio and Text Pairs from Public Data for
+  Improving ASR Systems for Low-Resource Languages",http://dx.doi.org/10.21437/interspeech.2018-1555
+135,"Improving Speech Recognition Accuracy of Local POI Using Geographical
+  Models",http://dx.doi.org/10.1109/slt48900.2021.9383538
+136,"Accented Speech Recognition: Benchmarking, Pre-training, and Diverse
+  Data",http://dx.doi.org/10.21437/interspeech.2010-477
+137,Learning Fast Adaptation on Cross-Accented Speech Recognition,http://dx.doi.org/10.21437/interspeech.2020-0045
+138,"Accent-Robust Automatic Speech Recognition Using Supervised and
+  Unsupervised Wav2vec Embeddings",http://dx.doi.org/10.21437/interspeech.2021-703
+139,"Interactive spatial speech recognition maps based on simulated speech
+  recognition experiments",http://dx.doi.org/10.1051/aacus/2022028
+140,"The Accented English Speech Recognition Challenge 2020: Open Datasets,
+  Tracks, Baselines, Results and Methods",http://dx.doi.org/10.1109/icassp39728.2021.9413386
+141,"The SLT 2021 children speech recognition challenge: Open datasets, rules
+  and baselines",http://dx.doi.org/10.1109/slt48900.2021.9383608
+142,SD-QA: Spoken Dialectal Question Answering for the Real World,http://dx.doi.org/10.18653/v1/2021.findings-emnlp.281
+143,Analysis of French Phonetic Idiosyncrasies for Accent Recognition,http://dx.doi.org/10.1016/j.socl.2021.100018
+144,"Automatic speech recognition for launch control center communication
+  using recurrent neural networks with data augmentation and custom language
+  model",http://dx.doi.org/10.1117/12.2304569.5783302610001
+145,Foreign English Accent Adjustment by Learning Phonetic Patterns,http://dx.doi.org/10.21437/interspeech.2020-2783
+146,Speech Recognition Challenge in the Wild: Arabic MGB-3,http://dx.doi.org/10.1109/asru.2017.8268952
+147,"WERd: Using Social Text Spelling Variants for Evaluating Dialectal
+  Speech Recognition",http://dx.doi.org/10.1109/asru.2017.8268928
+148,"An Investigation on Applying Acoustic Feature Conversion to ASR of Adult
+  and Child Speech",http://dx.doi.org/10.1109/icassp.2013.6639045
+149,"Adversarial Learning of Raw Speech Features for Domain Invariant Speech
+  Recognition",http://dx.doi.org/10.1109/icassp.2018.8462452
+150,Toward Cross-Domain Speech Recognition with End-to-End Models,http://dx.doi.org/10.21437/interspeech.2017-398
+151,Multi-Dialect Arabic Speech Recognition,http://dx.doi.org/10.1109/ijcnn48605.2020.9206658
+152,"Multilingual Approach to Joint Speech and Accent Recognition with
+  DNN-HMM Framework",http://dx.doi.org/10.21437/interspeech.2015-251
+153,"Variational Auto-Encoder Based Variability Encoding for Dysarthric
+  Speech Recognition",http://dx.doi.org/10.21437/interspeech.2021-173
+154,"Latent Dirichlet Allocation Based Organisation of Broadcast Media
+  Archives for Deep Neural Network Adaptation",http://dx.doi.org/10.1109/asru.2015.7404785
+155,Coarse-To-Fine And Cross-Lingual ASR Transfer,http://dx.doi.org/10.21437/interspeech.2021-796
+156,A Swiss German Dictionary: Variation in Speech and Writing,http://dx.doi.org/10.21437/interspeech.2021-1735
+157,"Content-Context Factorized Representations for Automated Speech
+  Recognition",http://dx.doi.org/10.21437/interspeech.2022-390
+158,Earnings-22: A Practical Benchmark for Accents in the Wild,http://dx.doi.org/10.21437/interspeech.2021-1915
+159,"Reducing Geographic Disparities in Automatic Speech Recognition via
+  Elastic Weight Consolidation",http://dx.doi.org/10.21437/interspeech.2022-11063
+160,"Google Crowdsourced Speech Corpora and Related Open-Source Resources for
+  Low-Resource Languages and Dialects: An Overview",http://dx.doi.org/10.21437/interspeech.2021-1930
+161,"Speaker Adaptation Using Spectro-Temporal Deep Features for Dysarthric
+  and Elderly Speech Recognition",http://dx.doi.org/10.1109/taslp.2022.3195113
+162,Hindi-English Code-Switching Speech Corpus,http://dx.doi.org/10.21437/interspeech.2010-563
+163,AequeVox: Automated Fairness Testing of Speech Recognition Systems,http://dx.doi.org/10.1007/978-3-030-99429-7_14
+164,Toward Fairness in AI for People with Disabilities: A Research Roadmap,http://dx.doi.org/10.1145/3386296.3386298
+165,Model-Based Approach for Measuring the Fairness in ASR,http://dx.doi.org/10.1109/icassp43922.2022.9747654
+166,Multilingual and Cross-Lingual Intent Detection from Spoken Data,http://dx.doi.org/10.18653/v1/2021.emnlp-main.591
+167,Mixtures of Deep Neural Experts for Automated Speech Scoring,http://dx.doi.org/10.21437/interspeech.2020-1055
+168,"On-the-fly Feature Based Speaker Adaptation for Dysarthric and Elderly
+  Speech Recognition",http://dx.doi.org/10.21437/interspeech.2004-630
+169,Libri-Adapt: A New Speech Dataset for Unsupervised Domain Adaptation,http://dx.doi.org/10.1109/icassp40776.2020.9053074
+170,"Indian EmoSpeech Command Dataset: A dataset for emotion based speech
+  recognition in the wild",http://dx.doi.org/10.14738/tmlai.96.11039
+171,"Understanding the Tradeoffs in Client-side Privacy for Downstream Speech
+  Tasks",http://dx.doi.org/10.1007/978-1-4842-5446-2_8
+172,AI and Accessibility: A Discussion of Ethical Considerations,http://dx.doi.org/10.1016/b978-0-240-80973-1.50014-7
+173,"Beyond Instructional Videos: Probing for More Diverse Visual-Textual
+  Grounding on YouTube",http://dx.doi.org/10.18653/v1/2020.emnlp-main.709
+174,"Binary classification of spoken words with passive elastic
+  metastructures",http://dx.doi.org/10.32470/ccn.2022.1171-0
+175,Hierarchical Summarization for Longform Spoken Dialog,http://dx.doi.org/10.1145/3472749.3474771
+176,ASR in German: A Detailed Error Analysis,http://dx.doi.org/10.1109/coins54846.2022.9854978
+177,"Language technology practitioners as language managers: arbitrating data
+  bias and predictive bias in ASR",http://dx.doi.org/10.1177/026553228700400106
+178,Personalized Query Rewriting in Conversational AI Agents,http://dx.doi.org/10.18653/v1/2021.nlp4convai-1.17
